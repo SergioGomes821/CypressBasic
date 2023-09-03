@@ -1,4 +1,0 @@
-test config git vscode
-test config git vscode 2
-test config git vscode 3
-test config git vscode 4
